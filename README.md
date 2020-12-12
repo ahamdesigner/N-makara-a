@@ -1,11 +1,7 @@
-# N-makara-a
-en.m.wikipedia.org › wiki › Nāmak... Nāmakaraṇa - Wikipedia
 # rename
-syamnath s nair rename syam dev
-# translation
+rename syam dev
+# dev name
 ശ്യാം ദേവ് श्याम् देव
-# original
-ശ്യാംനാഥ് ശ നായർ
 # Unicode support
 Devanagiri
 # root lang
