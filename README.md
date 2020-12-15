@@ -1,12 +1,12 @@
-# rename
-rename syam dev
-# dev name
+# नामकरण
+नवीकरण श्याम् देव
+# देव नामन्
 ശ്യാം ദേവ് श्याम् देव
-# Unicode support
-Devanagiri
-# root lang
-brahmi
-# compiler
-sanskrit
-# db lang
-മലയാളം
+# सार्वत्रिकाक्षरकूट साहाय्य
+देवनागरि ०९६
+# धातु पृच्छनभाषा
+ब्रह्मी
+# व्यास
+संस्कृत
+# दत्तसङ्ग्रह पृच्छनभाषा 
+द्राविड
